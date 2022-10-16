@@ -1,0 +1,5 @@
+{
+    "name": "Sonic and Knuckles Open Source",
+    "main": "electron-main.js",
+    "version": "1.0.0"
+}
